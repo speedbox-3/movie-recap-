@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Myanmar Movie Recap AI",
+  "description": "An automated AI workflow to translate, voiceover, and sync movie recap videos in Burmese.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
